@@ -230,3 +230,7 @@ ro.vendor.wlan.gen=gen4m_6895
 
 # Zygote
 zygote.critical_window.minute=10
+
+# scroll optimizer
+persist.sys.perf.scroll_opt=true
+persist.sys.perf.scroll_opt.heavy_app=1 
